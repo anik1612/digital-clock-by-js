@@ -39,8 +39,9 @@ body::after{
 }
 
 
-@media screen and (max-width: 640px) and (orientation: landscape){
+/* responsive css */
+@media screen and (max-width: 640px){
     h1{
-        font-size: 50px;
+        font-size: 70px;
     }
 }
