@@ -42,6 +42,7 @@ body::after{
 /* responsive css */
 @media screen and (max-width: 640px){
     h1{
+        font-family: cursive;
         font-size: 70px;
     }
 }
@@ -50,6 +51,7 @@ body::after{
     h1, #text{
         font-size: 50px;
         text-align: center;
+        font-family: cursive;
     }
 
 }
